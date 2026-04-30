@@ -1,13 +1,13 @@
-## Hi, I'm Travis 👋
+## 👋 Hi, I'm Travis | AI Product Leader
 
 <!--
 **travis-pollitt-portfolio/travis-pollitt-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I’m a Senior Product Manager specializing in AI-driven enterprise platforms, customer acquisition, and identity systems. 
+I build AI-driven decision and automation products that help enterprises determine who to target and who to trust.
 
 I currently lead development of a 0→1 SaaS talent CRM at JPMorganChase, building the foundation for a proprietary, AI-native talent acquisition platform.
 
-Artificial Intelligence is reshaping how products are built and operated. This profile captures how I’m building and applying AI to real-world products.
+Previously, I led products across enterprise platforms, customer acquisition, and identity systems, driving measurable gains in revenue, operational efficiency, and risk reduction while supporting hundreds of thousands of users and $100M+ in annual spend.
 
 Outside of work, I enjoy staying active, listening to podcasts, and following the Dallas Cowboys. If we share any common interests, let’s connect!
 
