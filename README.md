@@ -1,4 +1,4 @@
-## Hi, I'm Travis 👋 | AI Product Leader
+## Hi, I'm Travis 👋
 
 <!--
 **travis-pollitt-portfolio/travis-pollitt-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
