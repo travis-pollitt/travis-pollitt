@@ -3,7 +3,7 @@
 <!--
 **travis-pollitt-portfolio/travis-pollitt-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I build AI-driven decision and automation products that help enterprises determine who to target and who to trust.
+I build AI-driven platform products that help enterprises determine who to target and who to trust.
 
 I currently lead development of a 0→1 SaaS talent CRM at JPMorganChase, building the foundation for a proprietary, AI-native talent acquisition platform.
 
