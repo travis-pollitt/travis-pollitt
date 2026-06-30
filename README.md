@@ -3,7 +3,7 @@
 <!--
 **travis-pollitt-portfolio/travis-pollitt-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I build AI-driven platform products that help enterprises determine who to target and who to trust.
+I’m a Senior Product Manager who builds systems that help companies determine who to target, who to trust, and what to automate.
 
 I currently lead development of a 0→1 SaaS talent CRM at JPMorganChase, building the foundation for a proprietary, AI-native talent acquisition platform.
 
@@ -20,7 +20,7 @@ Outside of work, I enjoy staying active, listening to podcasts, and following th
   
 * Executing in Complex Environments - Align cross-functional teams to deliver measurable improvements in cost, revenue, or customer outcomes
 
-### **🎯 My Background: AI Platforms, Customer Acquisition, & Identity Products Across FinServ, Retail, & Healthcare**
+### **🎯 My Background: AI Platforms, Customer Acquisition, & Identity Products**
 * AI-Driven Enterprise Platforms _(JPMorganChase, Walmart, GE Healthcare)_
   * Led 0→1 development of a SaaS CRM for senior talent acquisition, establishing the foundation for an AI-native recruiting platform
   * Architected workflow automation system that improved customer on-time delivery through ML-powered recommendations
