@@ -21,7 +21,7 @@ Outside of work, I enjoy staying active, listening to podcasts, and following th
 * Executing in Complex Environments - Align cross-functional teams to deliver measurable improvements in cost, revenue, or customer outcomes
 
 ### **🎯 My Background: Workflow Automation, Customer Acquisition, & Identity Products**
-* AI-Driven Enterprise Platforms _(JPMorganChase, Walmart, GE Healthcare)_
+* AI-Driven Workflow Automation _(JPMorganChase, Walmart, GE Healthcare)_
   * Led 0→1 development of a SaaS CRM for senior talent acquisition, establishing the foundation for an AI-native recruiting platform
   * Architected workflow automation system that improved customer on-time delivery through ML-powered recommendations
   * Deployed and scaled third-party SaaS solutions to enhance B2B customer service operations and strengthen retention
