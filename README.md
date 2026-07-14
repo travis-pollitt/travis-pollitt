@@ -5,7 +5,7 @@
 -->
 I’m a Senior Product Manager who builds systems that help companies determine who to target, who to trust, and what to automate.
 
-I currently lead development of a 0→1 SaaS talent CRM at JPMorganChase, building the foundation for a proprietary, AI-native talent acquisition platform.
+At JPMorganChase, I led 0→1 discovery, product strategy, and proof-of-concept delivery for an in-house Talent CRM, establishing a foundation for future workflow automation and AI-enabled recruiting capabilities.
 
 Previously, I led products across enterprise workflow automation, customer acquisition, and identity systems, driving measurable gains in revenue, operational efficiency, and risk reduction while supporting hundreds of thousands of users and $100M+ in annual spend.
 
